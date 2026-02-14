@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/prachi597/leetcode/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/prachi597/leetcode/tree/master/0007-reverse-integer) |
 | [0012-integer-to-roman](https://github.com/prachi597/leetcode/tree/master/0012-integer-to-roman) |
 | [0050-powx-n](https://github.com/prachi597/leetcode/tree/master/0050-powx-n) |
@@ -91,9 +92,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/prachi597/leetcode/tree/master/0002-add-two-numbers) |
 | [0050-powx-n](https://github.com/prachi597/leetcode/tree/master/0050-powx-n) |
 ## Greedy
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/prachi597/leetcode/tree/master/0011-container-with-most-water) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/prachi597/leetcode/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
