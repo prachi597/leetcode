@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/prachi597/leetcode/tree/master/0012-integer-to-roman) |
 | [0050-powx-n](https://github.com/prachi597/leetcode/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/prachi597/leetcode/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/prachi597/leetcode/tree/master/0067-add-binary) |
 ## Array
 |  |
 | ------- |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0008-string-to-integer-atoi](https://github.com/prachi597/leetcode/tree/master/0008-string-to-integer-atoi) |
 | [0012-integer-to-roman](https://github.com/prachi597/leetcode/tree/master/0012-integer-to-roman) |
 | [0014-longest-common-prefix](https://github.com/prachi597/leetcode/tree/master/0014-longest-common-prefix) |
+| [0067-add-binary](https://github.com/prachi597/leetcode/tree/master/0067-add-binary) |
 | [0242-valid-anagram](https://github.com/prachi597/leetcode/tree/master/0242-valid-anagram) |
 ## Trie
 |  |
@@ -80,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/prachi597/leetcode/tree/master/0067-add-binary) |
 | [3379-transformed-array](https://github.com/prachi597/leetcode/tree/master/3379-transformed-array) |
 ## Sliding Window
 |  |
@@ -102,4 +105,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/prachi597/leetcode/tree/master/0002-add-two-numbers) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/prachi597/leetcode/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
