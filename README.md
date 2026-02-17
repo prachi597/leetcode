@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/prachi597/leetcode/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/prachi597/leetcode/tree/master/0031-next-permutation) |
 | [0039-combination-sum](https://github.com/prachi597/leetcode/tree/master/0039-combination-sum) |
+| [0040-combination-sum-ii](https://github.com/prachi597/leetcode/tree/master/0040-combination-sum-ii) |
 | [0066-plus-one](https://github.com/prachi597/leetcode/tree/master/0066-plus-one) |
 | [0169-majority-element](https://github.com/prachi597/leetcode/tree/master/0169-majority-element) |
 | [0454-4sum-ii](https://github.com/prachi597/leetcode/tree/master/0454-4sum-ii) |
@@ -119,4 +120,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/prachi597/leetcode/tree/master/0039-combination-sum) |
+| [0040-combination-sum-ii](https://github.com/prachi597/leetcode/tree/master/0040-combination-sum-ii) |
 <!---LeetCode Topics End-->
