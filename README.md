@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/prachi597/leetcode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/prachi597/leetcode/tree/master/0040-combination-sum-ii) |
 | [0045-jump-game-ii](https://github.com/prachi597/leetcode/tree/master/0045-jump-game-ii) |
+| [0051-n-queens](https://github.com/prachi597/leetcode/tree/master/0051-n-queens) |
 | [0066-plus-one](https://github.com/prachi597/leetcode/tree/master/0066-plus-one) |
 | [0152-maximum-product-subarray](https://github.com/prachi597/leetcode/tree/master/0152-maximum-product-subarray) |
 | [0169-majority-element](https://github.com/prachi597/leetcode/tree/master/0169-majority-element) |
@@ -126,4 +127,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0039-combination-sum](https://github.com/prachi597/leetcode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/prachi597/leetcode/tree/master/0040-combination-sum-ii) |
+| [0051-n-queens](https://github.com/prachi597/leetcode/tree/master/0051-n-queens) |
 <!---LeetCode Topics End-->
