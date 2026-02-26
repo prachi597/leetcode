@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/prachi597/leetcode/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/prachi597/leetcode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/prachi597/leetcode/tree/master/0067-add-binary) |
+| [0089-gray-code](https://github.com/prachi597/leetcode/tree/master/0089-gray-code) |
 ## Array
 |  |
 | ------- |
@@ -122,10 +123,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/prachi597/leetcode/tree/master/0067-add-binary) |
+| [0089-gray-code](https://github.com/prachi597/leetcode/tree/master/0089-gray-code) |
 ## Backtracking
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/prachi597/leetcode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/prachi597/leetcode/tree/master/0040-combination-sum-ii) |
 | [0051-n-queens](https://github.com/prachi597/leetcode/tree/master/0051-n-queens) |
+| [0089-gray-code](https://github.com/prachi597/leetcode/tree/master/0089-gray-code) |
 <!---LeetCode Topics End-->
