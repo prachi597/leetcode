@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/prachi597/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/prachi597/leetcode/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/prachi597/leetcode/tree/master/0031-next-permutation) |
+| [0036-valid-sudoku](https://github.com/prachi597/leetcode/tree/master/0036-valid-sudoku) |
 | [0039-combination-sum](https://github.com/prachi597/leetcode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/prachi597/leetcode/tree/master/0040-combination-sum-ii) |
 | [0045-jump-game-ii](https://github.com/prachi597/leetcode/tree/master/0045-jump-game-ii) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/prachi597/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/prachi597/leetcode/tree/master/0012-integer-to-roman) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/prachi597/leetcode/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0036-valid-sudoku](https://github.com/prachi597/leetcode/tree/master/0036-valid-sudoku) |
 | [0169-majority-element](https://github.com/prachi597/leetcode/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/prachi597/leetcode/tree/master/0242-valid-anagram) |
 | [0454-4sum-ii](https://github.com/prachi597/leetcode/tree/master/0454-4sum-ii) |
@@ -131,4 +133,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/prachi597/leetcode/tree/master/0040-combination-sum-ii) |
 | [0051-n-queens](https://github.com/prachi597/leetcode/tree/master/0051-n-queens) |
 | [0089-gray-code](https://github.com/prachi597/leetcode/tree/master/0089-gray-code) |
+## Matrix
+|  |
+| ------- |
+| [0036-valid-sudoku](https://github.com/prachi597/leetcode/tree/master/0036-valid-sudoku) |
 <!---LeetCode Topics End-->
