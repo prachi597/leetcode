@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/prachi597/leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0067-add-binary](https://github.com/prachi597/leetcode/tree/master/0067-add-binary) |
 | [0242-valid-anagram](https://github.com/prachi597/leetcode/tree/master/0242-valid-anagram) |
+| [0301-remove-invalid-parentheses](https://github.com/prachi597/leetcode/tree/master/0301-remove-invalid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/prachi597/leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/prachi597/leetcode/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/prachi597/leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/prachi597/leetcode/tree/master/0040-combination-sum-ii) |
 | [0051-n-queens](https://github.com/prachi597/leetcode/tree/master/0051-n-queens) |
 | [0089-gray-code](https://github.com/prachi597/leetcode/tree/master/0089-gray-code) |
+| [0301-remove-invalid-parentheses](https://github.com/prachi597/leetcode/tree/master/0301-remove-invalid-parentheses) |
 ## Matrix
 |  |
 | ------- |
@@ -169,4 +171,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/prachi597/leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/prachi597/leetcode/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/prachi597/leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0301-remove-invalid-parentheses](https://github.com/prachi597/leetcode/tree/master/0301-remove-invalid-parentheses) |
 <!---LeetCode Topics End-->
