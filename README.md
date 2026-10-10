@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/prachi597/leetcode/tree/master/0152-maximum-product-subarray) |
 | [0169-majority-element](https://github.com/prachi597/leetcode/tree/master/0169-majority-element) |
 | [0454-4sum-ii](https://github.com/prachi597/leetcode/tree/master/0454-4sum-ii) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/prachi597/leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2966-divide-array-into-arrays-with-max-difference](https://github.com/prachi597/leetcode/tree/master/2966-divide-array-into-arrays-with-max-difference) |
 | [3379-transformed-array](https://github.com/prachi597/leetcode/tree/master/3379-transformed-array) |
 ## String
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/prachi597/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/prachi597/leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -99,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/prachi597/leetcode/tree/master/0018-4sum) |
 | [0169-majority-element](https://github.com/prachi597/leetcode/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/prachi597/leetcode/tree/master/0242-valid-anagram) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/prachi597/leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2966-divide-array-into-arrays-with-max-difference](https://github.com/prachi597/leetcode/tree/master/2966-divide-array-into-arrays-with-max-difference) |
 ## Counting
 |  |
@@ -136,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/prachi597/leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/prachi597/leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/prachi597/leetcode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/prachi597/leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2966-divide-array-into-arrays-with-max-difference](https://github.com/prachi597/leetcode/tree/master/2966-divide-array-into-arrays-with-max-difference) |
 ## Linked List
 |  |
@@ -182,4 +186,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0301-remove-invalid-parentheses](https://github.com/prachi597/leetcode/tree/master/0301-remove-invalid-parentheses) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2333-minimum-sum-of-squared-difference](https://github.com/prachi597/leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 <!---LeetCode Topics End-->
