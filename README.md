@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/prachi597/leetcode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2966-divide-array-into-arrays-with-max-difference](https://github.com/prachi597/leetcode/tree/master/2966-divide-array-into-arrays-with-max-difference) |
 | [3379-transformed-array](https://github.com/prachi597/leetcode/tree/master/3379-transformed-array) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/prachi597/leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## String
 |  |
 | ------- |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/prachi597/leetcode/tree/master/0242-valid-anagram) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/prachi597/leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2966-divide-array-into-arrays-with-max-difference](https://github.com/prachi597/leetcode/tree/master/2966-divide-array-into-arrays-with-max-difference) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/prachi597/leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Counting
 |  |
 | ------- |
@@ -147,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2333-minimum-sum-of-squared-difference](https://github.com/prachi597/leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/prachi597/leetcode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2966-divide-array-into-arrays-with-max-difference](https://github.com/prachi597/leetcode/tree/master/2966-divide-array-into-arrays-with-max-difference) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/prachi597/leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Linked List
 |  |
 | ------- |
