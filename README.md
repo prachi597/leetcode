@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2333-minimum-sum-of-squared-difference](https://github.com/prachi597/leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/prachi597/leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/prachi597/leetcode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/prachi597/leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2966-divide-array-into-arrays-with-max-difference](https://github.com/prachi597/leetcode/tree/master/2966-divide-array-into-arrays-with-max-difference) |
 | [3379-transformed-array](https://github.com/prachi597/leetcode/tree/master/3379-transformed-array) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/prachi597/leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/prachi597/leetcode/tree/master/0242-valid-anagram) |
 | [0454-4sum-ii](https://github.com/prachi597/leetcode/tree/master/0454-4sum-ii) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/prachi597/leetcode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/prachi597/leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 ## Sorting
 |  |
 | ------- |
@@ -206,4 +208,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2778-sum-of-squares-of-special-elements](https://github.com/prachi597/leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/prachi597/leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Segment Tree
+|  |
+| ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/prachi597/leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 <!---LeetCode Topics End-->
