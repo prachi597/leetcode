@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/prachi597/leetcode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/prachi597/leetcode/tree/master/0067-add-binary) |
 | [0089-gray-code](https://github.com/prachi597/leetcode/tree/master/0089-gray-code) |
+| [1492-the-kth-factor-of-n](https://github.com/prachi597/leetcode/tree/master/1492-the-kth-factor-of-n) |
 | [3886-sum-of-sortable-integers](https://github.com/prachi597/leetcode/tree/master/3886-sum-of-sortable-integers) |
 ## Array
 |  |
@@ -229,4 +230,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/prachi597/leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Number Theory
+|  |
+| ------- |
+| [1492-the-kth-factor-of-n](https://github.com/prachi597/leetcode/tree/master/1492-the-kth-factor-of-n) |
+## Prime Factorization
+|  |
+| ------- |
+| [1492-the-kth-factor-of-n](https://github.com/prachi597/leetcode/tree/master/1492-the-kth-factor-of-n) |
 <!---LeetCode Topics End-->
