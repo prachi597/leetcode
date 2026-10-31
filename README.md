@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/prachi597/leetcode/tree/master/0067-add-binary) |
 | [0089-gray-code](https://github.com/prachi597/leetcode/tree/master/0089-gray-code) |
 | [1492-the-kth-factor-of-n](https://github.com/prachi597/leetcode/tree/master/1492-the-kth-factor-of-n) |
+| [2614-prime-in-diagonal](https://github.com/prachi597/leetcode/tree/master/2614-prime-in-diagonal) |
 | [3886-sum-of-sortable-integers](https://github.com/prachi597/leetcode/tree/master/3886-sum-of-sortable-integers) |
 ## Array
 |  |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/prachi597/leetcode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/prachi597/leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/prachi597/leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
+| [2614-prime-in-diagonal](https://github.com/prachi597/leetcode/tree/master/2614-prime-in-diagonal) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/prachi597/leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/prachi597/leetcode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/prachi597/leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
@@ -194,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/prachi597/leetcode/tree/master/0036-valid-sudoku) |
+| [2614-prime-in-diagonal](https://github.com/prachi597/leetcode/tree/master/2614-prime-in-diagonal) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -239,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1492-the-kth-factor-of-n](https://github.com/prachi597/leetcode/tree/master/1492-the-kth-factor-of-n) |
+| [2614-prime-in-diagonal](https://github.com/prachi597/leetcode/tree/master/2614-prime-in-diagonal) |
 ## Prime Factorization
 |  |
 | ------- |
