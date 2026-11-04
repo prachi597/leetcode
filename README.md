@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0301-remove-invalid-parentheses](https://github.com/prachi597/leetcode/tree/master/0301-remove-invalid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/prachi597/leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0709-to-lower-case](https://github.com/prachi597/leetcode/tree/master/0709-to-lower-case) |
+| [0771-jewels-and-stones](https://github.com/prachi597/leetcode/tree/master/0771-jewels-and-stones) |
 | [0856-score-of-parentheses](https://github.com/prachi597/leetcode/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/prachi597/leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/prachi597/leetcode/tree/master/1021-remove-outermost-parentheses) |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/prachi597/leetcode/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/prachi597/leetcode/tree/master/0242-valid-anagram) |
 | [0454-4sum-ii](https://github.com/prachi597/leetcode/tree/master/0454-4sum-ii) |
+| [0771-jewels-and-stones](https://github.com/prachi597/leetcode/tree/master/0771-jewels-and-stones) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/prachi597/leetcode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/prachi597/leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/prachi597/leetcode/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
