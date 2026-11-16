@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/prachi597/leetcode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/prachi597/leetcode/tree/master/0067-add-binary) |
 | [0089-gray-code](https://github.com/prachi597/leetcode/tree/master/0089-gray-code) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/prachi597/leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1492-the-kth-factor-of-n](https://github.com/prachi597/leetcode/tree/master/1492-the-kth-factor-of-n) |
 | [2614-prime-in-diagonal](https://github.com/prachi597/leetcode/tree/master/2614-prime-in-diagonal) |
 | [3886-sum-of-sortable-integers](https://github.com/prachi597/leetcode/tree/master/3886-sum-of-sortable-integers) |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/prachi597/leetcode/tree/master/0152-maximum-product-subarray) |
 | [0169-majority-element](https://github.com/prachi597/leetcode/tree/master/0169-majority-element) |
 | [0454-4sum-ii](https://github.com/prachi597/leetcode/tree/master/0454-4sum-ii) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/prachi597/leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0905-sort-array-by-parity](https://github.com/prachi597/leetcode/tree/master/0905-sort-array-by-parity) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/prachi597/leetcode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/prachi597/leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -128,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/prachi597/leetcode/tree/master/0018-4sum) |
 | [0169-majority-element](https://github.com/prachi597/leetcode/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/prachi597/leetcode/tree/master/0242-valid-anagram) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/prachi597/leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0905-sort-array-by-parity](https://github.com/prachi597/leetcode/tree/master/0905-sort-array-by-parity) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/prachi597/leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/prachi597/leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
