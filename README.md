@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0089-gray-code](https://github.com/prachi597/leetcode/tree/master/0089-gray-code) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/prachi597/leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1492-the-kth-factor-of-n](https://github.com/prachi597/leetcode/tree/master/1492-the-kth-factor-of-n) |
+| [1884-egg-drop-with-2-eggs-and-n-floors](https://github.com/prachi597/leetcode/tree/master/1884-egg-drop-with-2-eggs-and-n-floors) |
 | [2614-prime-in-diagonal](https://github.com/prachi597/leetcode/tree/master/2614-prime-in-diagonal) |
 | [3886-sum-of-sortable-integers](https://github.com/prachi597/leetcode/tree/master/3886-sum-of-sortable-integers) |
 ## Array
@@ -161,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/prachi597/leetcode/tree/master/0045-jump-game-ii) |
 | [0152-maximum-product-subarray](https://github.com/prachi597/leetcode/tree/master/0152-maximum-product-subarray) |
 | [0678-valid-parenthesis-string](https://github.com/prachi597/leetcode/tree/master/0678-valid-parenthesis-string) |
+| [1884-egg-drop-with-2-eggs-and-n-floors](https://github.com/prachi597/leetcode/tree/master/1884-egg-drop-with-2-eggs-and-n-floors) |
 ## Recursion
 |  |
 | ------- |
