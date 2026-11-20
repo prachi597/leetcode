@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-sort-array-by-parity](https://github.com/prachi597/leetcode/tree/master/0905-sort-array-by-parity) |
 | [1051-height-checker](https://github.com/prachi597/leetcode/tree/master/1051-height-checker) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/prachi597/leetcode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
+| [1528-shuffle-string](https://github.com/prachi597/leetcode/tree/master/1528-shuffle-string) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/prachi597/leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/prachi597/leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2614-prime-in-diagonal](https://github.com/prachi597/leetcode/tree/master/2614-prime-in-diagonal) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0856-score-of-parentheses](https://github.com/prachi597/leetcode/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/prachi597/leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/prachi597/leetcode/tree/master/1021-remove-outermost-parentheses) |
+| [1528-shuffle-string](https://github.com/prachi597/leetcode/tree/master/1528-shuffle-string) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/prachi597/leetcode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/prachi597/leetcode/tree/master/3863-minimum-operations-to-sort-a-string) |
 ## Trie
